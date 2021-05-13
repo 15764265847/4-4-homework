@@ -1,9 +1,8 @@
-{
+module.exports = {
   "apps": [
     {
       "name": "4-4-homework",
-      "script": "yarn",
-      "args": "start"
+      "script": "server/server.js"
     }
   ]
 }
