@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --port 3434",
+    "dev": "next dev --port 80",
     "build": "next build",
     "export": "next export",
-    "start": "next start --port 3434"
+    "start": "next start --port 80"
   },
   "dependencies": {
     "@babel/core": "^7.14.0",
