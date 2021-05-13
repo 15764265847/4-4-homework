@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "4-4-homework",
+      "script": "next",
+      "args": "start"
+    }
+  ]
+}
